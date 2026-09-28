@@ -214,16 +214,6 @@ The project report identifies potential applications including news aggregation 
 - Add model-card style documentation for each trained checkpoint.
 - Add CI checks for Python syntax and repository hygiene.
 
-## Authors
-
-Project report lists:
-
-- Ishu Patel
-- Rahul Verma
-- Sushant Shekhar
-- Utkarsh Attela
-
-The report cover identifies the project as “Text Summarization using BiLSTM Encoder-Decoder & FLAN-T5+LoRA on CNN/DailyMail.”
 
 ## License
 
